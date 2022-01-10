@@ -1,0 +1,10 @@
+dataset/Mask/*.jpg
+dataset/Mask_Chin/*.jpg
+dataset/Mask_Mouth_Chin/*.jpg
+dataset/Mask_Nose_Mouth/*.jpg
+
+data_preprocessing/*.npz
+
+model_trained/*.h5
+
+.ipynb_checkpoints/*
