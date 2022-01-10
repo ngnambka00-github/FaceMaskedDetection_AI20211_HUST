@@ -8,5 +8,5 @@
 |  4    |  Nguyễn Thái Thăng |  20182776   |  Điện tử 11 - K63   |
 |  5    |  Nguyễn Đức Long   |  20182657   |  Điện tử 11 - K63   |
 
-* Link dataset đã chia: https://by.com.vn/yATrbc
+* Link dataset: https://by.com.vn/yATrbc
 * Link model đã train xong: https://by.com.vn/nyAwHX
