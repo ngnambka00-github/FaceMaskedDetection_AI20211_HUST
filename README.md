@@ -5,3 +5,4 @@
 * Nguyễn Thái Thăng - 20182776 - Điện tử 11 K63
 * Nguyễn Đức Long - 20182657 - Điện tử 11 K63
 
+- Link dataset đã chia: https://husteduvn-my.sharepoint.com/:f:/g/personal/nam_nv182698_sis_hust_edu_vn/Eo50U2QleB1DuIPK7m8pRckBfh_K_vjhKHjyip31Qdb9Eg?e=AzrPnT
