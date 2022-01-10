@@ -1,4 +1,11 @@
 # FaceMaskedDetection AI2021 HUST 
+
+|       A       |      B        | C     |
+| :------------:|:-------------:|:-----:|
+|    3          |        2      |  1    |
+|     2         |        4      |   1   |
+|     a         | b             |    d  |
+
 * Nguyễn Văn Nam - 20182698 - Điện tử 10 K63
 * Nguyễn Việt Thi - 20182798 - Điện tử 10 K63
 * Ngô Vũ Hoàng - 20182539 - Điện tử 05 K63
